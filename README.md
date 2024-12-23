@@ -1,0 +1,1 @@
+# End-to-End-Burnt-Area-Classification-using-MLflow-DVC
